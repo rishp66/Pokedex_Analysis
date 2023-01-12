@@ -1,2 +1,6 @@
 # Pokedex_Analysis
-An analysis of the Pokedex using ggplot2 and dplyr
+In this, we analyze the Pokédex to analyze certain patterns via data visualization, p-values, and hypothesis testing.
+
+# Data Received from the following:
+<https://www.kaggle.com/datasets/rounakbanik/pokemon>
+
